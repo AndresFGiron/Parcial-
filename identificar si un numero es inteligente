@@ -1,0 +1,8 @@
+from multiprocessing.pool import IMapIterator
+import random 
+
+print ("parcial 1")
+numero = 0 - 1000
+numero = input (" indicar si es o no numero ")
+if numero (par)
+print 
